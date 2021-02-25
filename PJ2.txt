@@ -1,0 +1,4 @@
+-------------no borrar esto-----------------
+enableOfflineTutorialWhatsNew=1
+enableAlternativeUrlWhatsNew=0
+alternativeUrlWhatsNew=https://youtube.com/c/PutraJTS
